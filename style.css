@@ -42,3 +42,67 @@ font-family: 'Roboto', sans-serif;
           font-size: 20px;
           font-weight: 600px;
 }
+.second-sec {
+          text-align: center;
+          color: black; 
+          padding: 150px;
+}
+.second-sec h2{
+          font-size: 40px;
+          font-weight:bold;         
+}
+.second-sec p{
+          font-size: 20px;
+          padding-bottom: 15px;
+}
+.donate-box{
+          display: flex;
+          justify-content: center;
+          border-radius: 5px;
+          text-align: center;
+          
+
+}
+.taka{
+          margin: 7px;       
+          padding: 5px 30px;
+          background-color:#f8f8f8;
+          color:rgb(112, 105, 105);
+          font-size:50px;
+          font-weight:bold;
+          display: inline-block;
+}
+.ta-ka{
+          margin: 7px;       
+          padding: 5px 30px;
+          background-color:#fad7d7;
+          color:tomato;
+          border: 1px solid tomato;
+          border-radius: 5px;
+          font-size:50px;
+          font-weight:bold;
+          display: inline-block;   
+}
+.input-section input{
+                    margin-top: 30px;
+                    padding: 20px 0px 5px 15px;
+                    border: none;
+                    font-size: 17px;
+                    text-align: center;
+                    
+}
+hr{
+        margin: 0px 200px 0px 200px ;
+
+}
+.input-section button{
+          margin-top: 20px;
+                    height: 50px;
+                    padding: 8px;
+                    border: none;
+                    border-radius: 5px;
+                    background-color: tomato;
+                    color: #fff;
+                    font-size: 20px;
+                    font-weight: 600px;
+}
