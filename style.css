@@ -158,3 +158,174 @@ hr{
         padding-bottom: 30px;
         background-color:#FFF4D6
 }
+.four-sec{
+        display: flex;
+        text-align: center;
+        color: black;
+        margin: 100px;
+}
+.half-width{
+        width: 50%;
+        padding-left: 10%;
+      
+      }
+.half-width h1{
+        font-size: 50px;
+        font-weight:bold; 
+}  
+.half-width p{
+        font-size: 20px;
+}  
+.half-width img{
+        margin-top: 40px;
+                width: 90%;
+                border-radius: 10px;
+}
+.four-sec button{
+        margin-top: 20px;
+        height: 50px;
+        padding: 8px;
+        border: none;
+        border-radius: 5px;
+        background-color: tomato;
+        color: #fff;
+        font-size: 20px;
+        font-weight: 600px;   
+}
+.five-sec{
+        display: flex;
+        text-align: center;
+        color: black;
+        margin-top: 200px;
+}
+.five-sec button{
+        margin-top: 20px;
+        height: 50px;
+        padding: 8px;
+        border: none;
+        border-radius: 5px;
+        background-color: tomato;
+        color: #fff;
+        font-size: 20px;
+        font-weight: 600px;   
+}
+.six-sec{
+        text-align: center;
+        color: black;
+        margin-top: 200px;
+}
+.six-sec h1{
+        font-size: 40px;
+        font-weight:bold;         
+}
+.six-sec p{
+        font-size: 20px;
+        padding-bottom: 15px;
+}
+.icon-box{
+ 
+        display: flex;
+        justify-content: center;
+        border-radius: 5px;
+        text-align: center;
+        margin-top: 50px;
+}
+.icon-box h3{
+        font-size: 20px;
+}
+.icon{
+        margin: 7px;       
+        padding: 5px 30px;
+        background-color:#f8f8f8;
+        color:rgb(112, 105, 105);
+        font-size:50px;
+        font-weight:bold;
+        display: inline-block;
+}
+.in-fo{
+        background-color: #fad7d7;
+}
+.in-fo2{
+        background-color: #EDF5F6;
+}
+
+
+.up-date{
+        text-align: center;
+        color: black;
+        margin-top: 200px;  
+}
+.up-date h1{
+        font-size: 40px;
+        font-weight:bold;          
+}
+.up-date p{
+        font-size: 20px;
+        padding-bottom: 15px;
+}
+.form-section{
+        min-height: 19vh;
+        width: 51%;
+        margin-left: 24%;
+        margin-bottom: 5%;
+        background-color: antiquewhite;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.email{
+        border: none;
+        padding: 15px;
+        width: 400px;
+}
+.button{
+                  position: absolute;
+                  top: 0;
+                  right: 0;
+                  bottom: 0;
+                  border: none;
+                  padding: 15px;
+                  background: tomato;
+                  color: white;
+}
+.input-sec input{
+        border: none;
+        padding: 15px;
+        width: 300px;
+        position:relative;
+        background-color: rgb(207, 209, 209);
+        border-radius: 6px 0px 0px 6px;
+      
+}
+
+.input-sec button{
+        width: 120px;
+        position: absolute;
+        border: none;
+        padding: 15px;
+        background: tomato;
+        color: white;
+        border-radius: 0px 6px 6px 0px;
+
+}
+#hum-ble{
+        font-family:sans-serif;
+        color: tomato;
+        padding-top: 50px;
+}
+.do-it{
+        font-size: medium;
+        color: #dadada;
+
+}
+
+footer{
+        text-align: center;
+        background-color: black;
+        color: white;
+        height:150px;
+}
+
+
+
+      
