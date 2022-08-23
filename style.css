@@ -1,0 +1,44 @@
+
+body{
+ margin:0;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+
+}
+
+.frist-sec{
+
+          background:rgba(0, 0, 0, 0.7) url(images/donation13.jpg);
+          background-blend-mode: darken;
+          background-size: 100%;
+          background-repeat: no-repeat;
+          height: 150px;
+          padding: 20%;
+         
+
+
+}
+.header-sec{
+          
+          text-align: center;
+          color: white;
+          
+}
+.header-sec h1{
+          font-size: 60px;
+          font-weight:bold;         
+}
+.header-sec p{
+            font-size: 20px;
+}
+.header-sec button{
+          height: 50px;
+          padding: 8px;
+          border: none;
+          border-radius: 5px;
+          background-color: tomato;
+          color: #fff;
+          font-size: 20px;
+          font-weight: 600px;
+}
