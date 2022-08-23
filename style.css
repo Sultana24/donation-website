@@ -106,3 +106,55 @@ hr{
                     font-size: 20px;
                     font-weight: 600px;
 }
+.third-sec {
+          text-align: center;
+          color: black; 
+
+}
+.third-sec h2{
+          font-size: 40px;
+          font-weight:bold;         
+}
+.third-sec p{
+          font-size: 20px;
+          padding-bottom: 15px;
+}
+.third-sec img{
+        margin-right:300px;
+
+}
+.donate-plan{
+        display: flex;
+        padding: 5%;
+        margin-left: 8%;
+        margin-right: 8%;
+}
+.food{
+        border-radius: 2%;
+        margin-left: 10PX;
+        margin-right: 10PX;
+        padding-top: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 30px;
+        background-color:#EDF5F6;
+}
+.shelter{
+        border-radius: 2%;
+        margin-left: 10PX;
+        margin-right: 10PX;
+        padding-top: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 30px;
+        background-color:#FFEEEE; 
+}
+.education{
+        margin-left: 10PX;
+        border-radius: 2%;
+        padding-top: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 30px;
+        background-color:#FFF4D6
+}
